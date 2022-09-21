@@ -1,3 +1,6 @@
+Ce projet est un projet de M1 ANDROIDE de l'ue MOGPL (Modélisation Optimisation Graphes Programmation Linéaire) réalisé par groupe de 2 étudiants.
+Le sujet porte sur l'optimisation appliquée à la localisation d’unités de soin et à la prise en charge des patients.
+
 --- exo1.1.py
 
 On peut modifier le nombre de secteurs en modifiant la valeur de k.
